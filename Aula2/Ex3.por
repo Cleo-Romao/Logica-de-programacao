@@ -7,7 +7,7 @@ programa {
     escreva( "Digite o primeiro ângulo: ")
     leia(a1)
 
-    escreva("Digite o segunto ângulo:")
+    escreva("Digite o segundo ângulo: ")
     leia(a2)
 
     a = 180 - (a1 + a2) 
