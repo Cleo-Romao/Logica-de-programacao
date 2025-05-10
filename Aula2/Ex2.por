@@ -5,13 +5,13 @@ programa {
     real altura
     real imc
 
-    escreva("Qual o seu nome? ")
+    escreva("Nome: ")
     leia(nome)
 
-    escreva("Qual é o seu peso? ")
+    escreva("Peso (kg): ")
     leia(peso)
 
-    escreva("Qual sua altura? ")
+    escreva("Altura (m): ")
     leia(altura)
 
     imc = peso / (altura*altura)
