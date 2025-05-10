@@ -27,7 +27,7 @@ programa {
 
     escreva("Valor com 10% de desconto: R$ ",desconto,"\n")
     escreva("Valor de cada parcela (3x sem juros): R$ ",pacelado,"\n")
-    escreva("Comissão do vendedor (à vista): ",cv,"\n")
+    escreva("Comissão do vendedor (à vista): R$ ",cv,"\n")
     escreva("Comissão do vendedor (parcelado): R$ ",cp)
 }
   }
