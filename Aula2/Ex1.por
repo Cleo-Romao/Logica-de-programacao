@@ -11,7 +11,7 @@ programa {
     escreva("Qual a primeira nota? ")
     leia(n1)
 
-    escreva("Qual a sua segunda nota? ")
+    escreva("Qual a segunda nota? ")
     leia(n2)
 
     media = (n1 + n2) / 2
