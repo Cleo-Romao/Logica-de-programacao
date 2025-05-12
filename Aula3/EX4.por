@@ -12,7 +12,7 @@ leia(peso)
 
 escreva("Altura (m): ")
 leia(altura)
-= peso / (altura*altura)   
+imc = peso / (altura*altura)   
 
 se (imc < 18.5){
   escreva("Abaixo do peso")
